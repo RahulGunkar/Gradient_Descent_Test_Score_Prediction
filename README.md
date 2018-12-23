@@ -9,7 +9,7 @@ In this repository model to predict the test score depending on the number of ho
   python 3</br>
   
   <h2><i>A bit of theory </i></h2></br>
-  Gradient means slope..and gradient descent points in the direction of local minima..so find gradient descent at each point leads us towards the optimal local minima..that is optimal value of m and b.
+  Gradient means slope..and gradient descent points in the direction of local minima..so finding gradient descent at each point leads us towards the optimal local minima..that is optimal value of m and b.
   hence we converge the gradient until local minima is found for both b and m.
   </br>
   <h1>Important Equations</h1></br>
