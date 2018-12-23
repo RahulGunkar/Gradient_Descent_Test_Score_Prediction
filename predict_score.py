@@ -17,6 +17,7 @@ def step_gradient(b_current, m_current, points , a):
 	b_gradient = 0
 	m_gradient = 0
 	N = float(len(points))
+	#calculating gradient at each point
 	for i in range(0, len(points)):
 		x = points[i,0]
 		y = points[i,1]
